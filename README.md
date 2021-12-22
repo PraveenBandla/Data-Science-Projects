@@ -1,2 +1,2 @@
 # Data-Science-Projects
-Collection of projects i have done when pursuing PGP in Data Science
+Collection of projects I have done when pursuing PGP in Data Science
